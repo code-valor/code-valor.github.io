@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a01c28d.css",
+    "main.js": "/static/js/main.222e526a.js",
+    "static/media/dadaism1.png": "/static/media/dadaism1.7946d528d8e43f09622e.png",
+    "static/media/fa-duotone-900.ttf": "/static/media/fa-duotone-900.9a9b1affef09fa1b6ed1.ttf",
+    "static/media/fa-thin-100.ttf": "/static/media/fa-thin-100.e9857e8add32255d1b04.ttf",
+    "static/media/fa-light-300.ttf": "/static/media/fa-light-300.02ed6a2e5b79a0710156.ttf",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.08deef48618ce28a573f.ttf",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.46457309c0517f65fdd5.ttf",
+    "static/media/romanticism1.png": "/static/media/romanticism1.857c3775f84f34659112.png",
+    "static/media/fa-thin-100.woff2": "/static/media/fa-thin-100.33c2991a06db4396e56a.woff2",
+    "static/media/fa-duotone-900.woff2": "/static/media/fa-duotone-900.d87ee5c7c02d2920c131.woff2",
+    "static/media/fa-light-300.woff2": "/static/media/fa-light-300.18596994182b05356f93.woff2",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.5a18b197e984e04b2be1.woff2",
+    "static/media/td.otf": "/static/media/td.5c70ab156cc02d25e04a.otf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.0a037305a0a6d42b99c3.woff2",
+    "static/media/futurism1.png": "/static/media/futurism1.e05fca8ab8cfd99898d6.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.dbcb0917dd88a81503b3.ttf",
+    "static/media/impressionism1.png": "/static/media/impressionism1.121d456831f881bd135b.png",
+    "static/media/naturalism1.png": "/static/media/naturalism1.c9fe754131cf2354448f.png",
+    "static/media/surrealism1.png": "/static/media/surrealism1.a1e0c4400975ac571a5c.png",
+    "static/media/existentialism1.png": "/static/media/existentialism1.acc2ef0e1a8fe176d5a7.png",
+    "static/media/parnassianism1.png": "/static/media/parnassianism1.057d1990988346123cc7.png",
+    "static/media/realism1.png": "/static/media/realism1.24fb5f2b5b041618d5b5.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.e0685453384dbe061fe9.woff2",
+    "static/media/classicism1.png": "/static/media/classicism1.0388b4cc236498c660ee.png",
+    "static/media/humanism1.png": "/static/media/humanism1.f6c71acf878e60553c5f.png",
+    "static/media/sembolism1.png": "/static/media/sembolism1.06c9d331861507efbc7e.png",
+    "static/media/expressionism1.png": "/static/media/expressionism1.ad88017ae1da4b4d95de.png",
+    "static/media/Rosewell.otf": "/static/media/Rosewell.4f8b7dd8a8f4ab0c2233.otf",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8460512b70895617fd8.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.41a3700cf0f7ca715efa.woff2",
+    "index.html": "/index.html",
+    "main.4a01c28d.css.map": "/static/css/main.4a01c28d.css.map",
+    "main.222e526a.js.map": "/static/js/main.222e526a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a01c28d.css",
+    "static/js/main.222e526a.js"
+  ]
+}
